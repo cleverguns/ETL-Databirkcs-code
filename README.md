@@ -1,4 +1,4 @@
-![Screenshot from 2023-12-06 10-16-21](https://github.com/cleverguns/ETL-Databirkcs-code/assets/41587193/5526f152-3534-4d03-89b5-4f931d549c6b)# ETL Project with Azure Databricks
+# ETL Project with Azure Databricks
 
 ## Overview
 This project involves Extract, Transform, Load (ETL) processes using Azure Databricks. The data is sourced from a CSV file provided by Microsoft, and transformations are performed using Python within a Databricks notebook.
@@ -29,6 +29,5 @@ Make sure the CSV file is publicly accessible on GitHub.
 
 
 screenshot: 
-
 ![Screenshot from 2023-12-06 10-16-21](https://github.com/cleverguns/ETL-Databirkcs-code/assets/41587193/6b30a407-c5f6-47a9-8a88-9ff8aabd4e41)
 
